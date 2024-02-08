@@ -1,16 +1,16 @@
-# e_commerse_pratik
+# Flutter Deneme E-Ticaret Uygulaması
 
-A new Flutter project.
+Bu Flutter projesi, bir deneme amaçlı olarak basit bir e-ticaret uygulamasının arayüzünü içerir. Uygulama, ürünleri listeleyen basit bir ana ekran, sepete ekleyebileceğiniz bir detay ekranı ve siparişlerinizi görebileceğiniz bir harita ekranından oluşur. Gerçek bir e-ticaret işlevselliği yoktur ve yalnızca UI üzerine odaklanır.
 
-## Getting Started
+## Kullanılan Teknolojiler
 
-This project is a starting point for a Flutter application.
+- Flutter ve Dart
+- Google Maps API
 
-A few resources to get you started if this is your first Flutter project:
+## Notlar
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+Bu proje sadece bir deneme amaçlı olup gerçek bir e-ticaret uygulaması değildir. Yalnızca Flutter ile arayüz geliştirmeyi, UI tasarımını öğrenmeyi ve Google Haritalar API'sini kullanmayı içerir.
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+
+- 🔗  [Kaynak](https://github.com/abuanwar072/E-commerce-Complete-Flutter-UI)
+
